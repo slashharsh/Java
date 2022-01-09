@@ -8,7 +8,7 @@ public class InputOutput {
         // Input is string then readline()
         // String str = str.readLine();
         // Input is integer then 
-        System.out.println("Integer");
+        System.out.println("Integer: ");
         int x = scanThings.nextInt();
         System.out.println("Integer Value: "+ x);
 
